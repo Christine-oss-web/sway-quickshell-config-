@@ -5,9 +5,9 @@
 ```bash
 git clone https://github.com/Christine-oss-web/sway-quickshell-config-.git
 
-# then change directory to it
+# then unzip it
 
-cd sway-quickshell-config-
+cd sway-quickshell-config- && unzip quickshell.zip -d .
 
 # then delete/backup your old quickshell config (preferably backup)
 
