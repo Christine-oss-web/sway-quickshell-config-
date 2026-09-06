@@ -1,6 +1,10 @@
 # sway-quickshell-config
 
 ## it is a fork from the quickshell config tony-btw built and I made it rose pine moon and changed a bunch of stuff in the bar anyway to install it run
+<p align="center">
+  <img src="./2026-09-06-134020_grim.png" alt="Image 1" width="400" />
+  <img src="./2026-09-06-134041_grim.png" alt="Image 2" width="400" />
+</p>
 
 ```bash
 git clone https://github.com/Christine-oss-web/sway-quickshell-config-.git
